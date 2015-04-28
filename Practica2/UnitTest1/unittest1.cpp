@@ -1,9 +1,9 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "../Practica Quadtree/p2DynArray.h"
-#include "../Practica Quadtree/p2List.h"
-#include "../Practica Quadtree/Stack.h"
-#include "../Practica Quadtree/Tree.h"
+#include "../p2DynArray.h"
+#include "../p2List.h"
+#include "../Stack.h"
+#include "../Tree.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
